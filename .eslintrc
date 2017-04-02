@@ -1,0 +1,9 @@
+# any setup we do to eslint, we will do it here
+
+# project specific setup
+
+# Here we are saying, go and find rallycoding in node packages
+
+{
+  "extends": "rallycoding"
+}
